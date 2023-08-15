@@ -1,8 +1,8 @@
-#Cikitsa International: Integrated Healthcare App
-##Description
+<h1>Cikitsa International: Integrated Healthcare App</h1>
+<h2>Description</h2>
 Cikitsa International is a comprehensive healthcare app designed to bridge the gap between medical professionals and patients on a global scale. With a seamless integration of multiple healthcare services, this platform strives to bring the finest of medical facilities right to the fingertips of users, powered by cutting-edge technologies.
 
-##Features
+<h2>Features</h2>
 ###1. Telemedicine
 Virtual Consultations: Patients can consult with doctors via video or audio calls.
 Prescription Generation: Post-consultation, patients receive digital prescriptions that can be accessed anytime.
