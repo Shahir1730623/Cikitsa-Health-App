@@ -32,4 +32,4 @@ Patients can effortlessly track the history of their consultations, prescription
 Frontend & Mobile: Developed using Flutter with Dart, ensuring a responsive and cross-platform user experience.
 Database: Firebase Realtime Database and Firestore serve as the backbone for data storage, ensuring real-time data synchronization and scalability.
 External Data: APIs are utilized for fetching prescription-related data, ensuring accurate and updated medical information.
-Document Generation: A robust PDF generator is in place for creating and sharing digital prescriptions and other medical documents.
+Document Generation: A robust PDF generator is in place for creating and sharing digital prescriptions and other medical documents
