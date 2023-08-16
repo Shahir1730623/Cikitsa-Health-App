@@ -1,4 +1,4 @@
-<h1>Cikitsa International: Integrated Healthcare App</h1>
+<h1>Cikitsa International: Integrated Healthcare App 🌐🩺</h1>
 <h2>Description</h2>
 Cikitsa International is a comprehensive healthcare app designed to bridge the gap between medical professionals and patients on a global scale. With a seamless integration of multiple healthcare services, this platform strives to bring the finest of medical facilities right to the fingertips of users, powered by cutting-edge technologies.
 
@@ -34,3 +34,5 @@ Cikitsa International is a comprehensive healthcare app designed to bridge the g
   <h3>Database</h3>Firebase Realtime Database and Firestore serve as the backbone for data storage, ensuring real-time data synchronization and scalability.
   <h3>External Data</h3>APIs are utilized for fetching prescription-related data, ensuring accurate and updated medical information.
   <h3>Document Generation</h3>A robust PDF generator is in place for creating and sharing digital prescriptions and other medical documents
+
+![N/A](CI/1.png)
