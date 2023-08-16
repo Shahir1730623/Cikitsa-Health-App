@@ -35,8 +35,7 @@ Cikitsa International is a comprehensive healthcare app designed to bridge the g
   <h3>External Data</h3>APIs are utilized for fetching prescription-related data, ensuring accurate and updated medical information.
   <h3>Document Generation</h3>A robust PDF generator is in place for creating and sharing digital prescriptions and other medical documents
 
-<br></br>
-
+<h2>App Screenshots</h2>
 <img src="CI/1.png" width="400">
 <img src="CI/2.png" width="400">
 <img src="CI/3.png" width="400">
